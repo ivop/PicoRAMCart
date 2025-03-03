@@ -13,7 +13,7 @@ Original hardware project is [here](http://raster.infos.cz/atari/hw/ramcart/ramc
 
 ![](PicoRAMCart.png)
 
-* Download the new firmware from the releases page and flash it to your A8PicoCart.
+* Download the new firmware from the [releases page](https://github.com/ivop/PicoRAMCart/releases) and flash it to your A8PicoCart.
 * Insert the cartridge in your Atari with both switches in the OFF position. On the image above that is to the left.
 * Switch on your computer and boot one of the two supplied ATR images.
 * Run ```RFF21```.
