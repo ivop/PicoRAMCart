@@ -34,7 +34,7 @@ Here's a YouTube short demonstrating the procedure: https://www.youtube.com/shor
 ## Building the firmware?
 
 To build the firmware from source you need to have a functional [Pi Pico build environment](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
-You can set the PICO_SDK_PATH and PICO_EXTRAS_PATH environment variables to point to the right directory.
+You can set the PICO_SDK_PATH and PICO_EXTRAS_PATH environment variables to point to the right directories.
 If they are not set, cmake will download and build them itself. The same will happen if _picotool_ is not in your $PATH.
 
 ```
@@ -50,4 +50,4 @@ The firmware file is named PicoRAMCart.uf2.
 
 ## Who?
 
-PicoRAMCart is Copyright © 2025 by Ivo van Poorten and is licensed under the terms of the BSD 2-Clause license.
+PicoRAMCart firmware is Copyright © 2025 by Ivo van Poorten and is licensed under the terms of the BSD 2-Clause license.
