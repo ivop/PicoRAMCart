@@ -29,6 +29,8 @@ Original hardware project is [here](http://raster.infos.cz/atari/hw/ramcart/ramc
 The two ROMs on the original software disk ask you to turn OFF the cartridge after it is booted. This is normal behaviour. The program has been copied to normal RAM.
 The second disk contains two programs that actually run from ROM and need the cartridge enable switch to stay in the ON position.
 
+Here's a YouTube short demonstrating the procedure: https://www.youtube.com/shorts/3Dks8j9dF18
+
 ## Building the firmware?
 
 To build the firmware from source you need to have a functional [Pi Pico build environment](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
