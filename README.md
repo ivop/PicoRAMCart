@@ -50,4 +50,5 @@ The firmware file is named PicoRAMCart.uf2.
 
 ## Who?
 
-PicoRAMCart firmware is Copyright © 2025 by Ivo van Poorten and is licensed under the terms of the BSD 2-Clause license.
+PicoRAMCart firmware is Copyright © 2025 by Ivo van Poorten and is licensed under the terms of the BSD 2-Clause license.  
+A8PicoCart hardware is Copyright © 2023 by Robin Edwards.
