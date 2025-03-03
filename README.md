@@ -4,7 +4,7 @@ Emulate Raster/Bob!k/C.P.U. RAM Cartridge with A8PicoCart
 ## What?
 
 This is an alternative firmware for the [A8PicoCart](https://github.com/robinhedwards/A8PicoCart)
-that emulates a RAM cartridge with an XEGS bankswitching scheme.
+that emulates a RAM cartridge with XEGS bankswitching.
 Original hardware project is [here](http://raster.infos.cz/atari/hw/ramcart/ramcart.htm).
 
 ## How?
