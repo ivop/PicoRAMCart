@@ -52,4 +52,4 @@ The firmware file is named PicoRAMCart.uf2.
 
 PicoRAMCart firmware is Copyright © 2025 by Ivo van Poorten and is licensed under the terms of the BSD 2-Clause license.  
 A8PicoCart hardware is Copyright © 2023 by Robin Edwards.  
-Original RAM Cartridge design by Radek Štěrba (Raster) and Robert Petružela (Bob!k).
+Original RAM Cartridge design by Radek Štěrba (Raster) and Robert Petružela (Bob!k), 2005.
