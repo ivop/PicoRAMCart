@@ -31,6 +31,15 @@ The second disk contains two programs that actually run from ROM and need the ca
 
 Here's a YouTube short demonstrating the procedure: https://www.youtube.com/shorts/3Dks8j9dF18
 
+## Bootsel without opening the cartridge?
+
+The first time you flash this new firmware, you'll need to open the cartridge and hold the bootsel button while connecting it to your PC.
+After that it can be closed again. If you want to reflash the firmware (newer version, your own experiments), there is no need to reopen the cartridge anymore.
+When connected to the PC instead of the Atari, it drops to a serial debug console.
+If you open the serial device at 1200 baud, it will automatically reboot in bootsel mode.
+For example, on Linux you can run ```stty -F /dev/ttyACM0 1200``` or ```minicom -D /dev/ttyACM0 -b 1200```.
+On Windows, using _putty_ and setting the serial baudrate to 1200 should work.
+
 ## Building the firmware?
 
 To build the firmware from source you need to have a functional [Pi Pico build environment](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
